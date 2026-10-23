@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+.one{
+    background-color: red;
+    color: white;
+}
+
+.two{
+    background-color: green;
+    color: white;
+}
+
+.three{
+    background-color: blue;
+    color: white;
+}
+
+
